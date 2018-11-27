@@ -27,6 +27,9 @@ $npm install --save mongoose
 // cookie
 $npm install --save cookie-session
 
+// run server & client at the same time
+$npm install --save concurrently
+
 
 // run node 
 $node index.js      // run js file
