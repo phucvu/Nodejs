@@ -1,4 +1,10 @@
-// 
+// build
+$npm run build
+
+
+
+
+// libs 
 $npm install --save redux react-redux react-router-dom
 
 // Materialize CSS
