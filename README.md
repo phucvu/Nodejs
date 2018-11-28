@@ -23,6 +23,14 @@ $npm install --save passport passport-google-oauth20
 //      https://mongoosejs.com/docs/guide.html    
 $npm install --save mongoose
 
+// payment 
+//  https://stripe.com/
+//  https://stripe.com/payments/checkout
+//  https://www.npmjs.com/package/stripe
+$npm install --save stripe    // on server side
+
+// helper parser a request 
+$npm install --save body-parser
 
 // cookie
 $npm install --save cookie-session
