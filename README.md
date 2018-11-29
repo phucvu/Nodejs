@@ -29,6 +29,9 @@ $npm install --save mongoose
 //  https://www.npmjs.com/package/stripe
 $npm install --save stripe    // on server side
 
+// email: sendgrid.com
+$npm install --save sendgrid
+
 // helper parser a request 
 $npm install --save body-parser
 
