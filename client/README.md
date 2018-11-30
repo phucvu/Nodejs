@@ -12,6 +12,7 @@ $npm install --save materialize-css@next
 
 $npm install --save redux-thunk
 $npm install --save axios
+$npm install --save redux-form        // https://redux-form.com
 
 // payment
 //  https://dashboard.stripe.com/test/dashboard
