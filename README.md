@@ -42,6 +42,15 @@ $npm install --save cookie-session
 $npm install --save concurrently
 
 
+// localtunnel: send POST/GET from to world to local in development mode
+//              Ex: sendgrid responds to your server in development mode
+//   https://localtunnel.github.io/www/
+$npm install --save localtunnel
+
+//
+$npm install --save lodash path-parser
+
+
 // run node 
 $node index.js      // run js file
 $npm run dev        // run script 
